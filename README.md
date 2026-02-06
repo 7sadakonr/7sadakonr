@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋 I'm Jetsadakorn Muangwichit</h1>
 
 ###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontColor=FFFFFF&color=00b4d8" />
-</div>
-
-###
-
 ## 👨‍💻 About Me
 
 I am a 3rd-year **Computer Science** student at Rajamangala University of Technology Suvarnabhumi (RMUTSB), Ayutthaya. I specialize in **Hybrid Development**, bridging the gap between robust **Web Development** and intuitive **UI/UX Design**.
