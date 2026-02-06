@@ -10,23 +10,21 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year **Computer Science** student at Rajamangala University of Technology Suvarnabhumi (RMUTSB), Ayutthaya. I specialize in **Hybrid Development**, seamlessly blending **Web Development** with **UI/UX Design** to create intuitive and efficient digital experiences.
+I am a 3rd-year **Computer Science** student at Rajamangala University of Technology Suvarnabhumi (RMUTSB), Ayutthaya. I specialize in **Hybrid Development**, bridging the gap between robust **Web Development** and intuitive **UI/UX Design**.
 
 * 📍 **Based in:** Ayutthaya, Thailand
-* 🚀 **Currently Working On:** * **Naita:** An AI-powered web application designed to assist visually impaired individuals.
-    * **Fliq:** A global P2P file transfer web application utilizing WebRTC.
-* 🧠 **Learning Path:** Advancing my knowledge in **Neural Networks**, **Deep Learning**, and **Algorithms** (BFS, DFS).
-* 🎯 **Focus:** Building technology that drives social impact and enhances accessibility.
-* 🕹️ **Interests:** Enthusiastic about **Sim Racing** (Assetto Corsa Competizione) and developing **Algorithmic Trading** tools for XAUUSD.
+* 🧠 **Currently Learning:** Deep Diving into **Neural Networks**, **Data Structures**, and **Algorithms**
+* 🎯 **Focus:** Building efficient software solutions and high-quality digital experiences
+* 🕹️ **Interests:** Passionate about **Sim Racing** and exploring **Algorithmic Trading**
 
 ###
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="50" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" height="50" alt="frontend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" height="50" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" height="50" alt="backend" />
   <br>
   <img src="https://skillicons.dev/icons?i=figma,vercel,git,github,vscode,postman" height="50" alt="tools" />
 </div>
@@ -48,13 +46,13 @@ I am a 3rd-year **Computer Science** student at Rajamangala University of Techno
 
 ###
 
-## 📬 Get in Touch
+## 📬 Connect with Me
 
 <div align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://7sadakonr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </div>
