@@ -14,7 +14,6 @@ I am a 3rd-year **Computer Science** student at Rajamangala University of Techno
 
 * 📍 **Based in:** Ayutthaya, Thailand
 * 🎯 **Focus:** Building efficient software solutions and high-quality digital experiences
-* 🕹️ **Interests:** Passionate about **Sim Racing** and exploring **Algorithmic Trading**
 
 ###
 
