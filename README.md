@@ -13,7 +13,6 @@
 I am a 3rd-year **Computer Science** student at Rajamangala University of Technology Suvarnabhumi (RMUTSB), Ayutthaya. I specialize in **Hybrid Development**, bridging the gap between robust **Web Development** and intuitive **UI/UX Design**.
 
 * 📍 **Based in:** Ayutthaya, Thailand
-* 🧠 **Currently Learning:** Deep Diving into **Neural Networks**, **Data Structures**, and **Algorithms**
 * 🎯 **Focus:** Building efficient software solutions and high-quality digital experiences
 * 🕹️ **Interests:** Passionate about **Sim Racing** and exploring **Algorithmic Trading**
 
