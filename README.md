@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hybrid%20Developer&fontSize=70&fontColor=FFFFFF&color=00b4d8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontColor=FFFFFF&color=00b4d8" />
 </div>
 
 ###
