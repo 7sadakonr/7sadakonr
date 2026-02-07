@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Jetsadakorn Muangwichit</h1>
-  <p><strong>Software Engineer | Full-Stack Developer | UI/UX Designer</strong></p>
-  
+
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=ff7777&center=true&vCenter=true&width=500&lines=Hybrid+Development+Approach;Building+Intuitive+Digital+Experiences;3rd+Year+Computer+Science+Student" alt="Typing SVG" />
 </div>
 
