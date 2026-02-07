@@ -21,33 +21,35 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge 
 
 ### 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & DB</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Tools & Design</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,laravel,postgres,prisma,docker,figma,git,github,vscode,postman,vercel" />
+</div>
 
 ---
 
-### 📊 GitHub Contributions & Stats
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sadakonr&layout=compact&theme=dracula&border_radius=10" height="180" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7sadakonr&theme=dracula&border_radius=10" height="180" />
 </div>
 
 ---
