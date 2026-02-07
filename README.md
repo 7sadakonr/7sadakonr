@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=ff7777&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jetsadakorn+Muangwichit;Software+Engineer+In+The+Making;Hybrid+Developer+%26+UI+Designer" alt="Typing SVG" />
+  <h1>Jetsadakorn Muangwichit</h1>
+  <p><strong>Software Engineer | Full-Stack Developer | UI/UX Designer</strong></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=ff7777&center=true&vCenter=true&width=500&lines=Hybrid+Development+Approach;Building+Intuitive+Digital+Experiences;3rd+Year+Computer+Science+Student" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Ayutthaya%2C_Thailand-blue?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
