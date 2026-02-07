@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Earth-Ayutthaya%2C_Thailand-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Ayutthaya%2C_Thailand-blue?style=flat-square" />
 </p>
 
 ---
