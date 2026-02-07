@@ -66,5 +66,3 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge 
 <div align="center">
   <img src="https://count.getloli.com/@:7sadakonr?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
-
-top lang ใช้ไม่ได้
