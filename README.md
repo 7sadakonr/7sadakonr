@@ -60,7 +60,7 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge 
 
 | **Email** | **Portfolio** | **GitHub** |
 | :---: | :---: | :---: |
-| <a href="mailto:7sadakonr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a> | <a href="https://7sadakonr.vercel.app"><img src="7sadakonr.png" width="40" style="border-radius: 50%;" /></a> | <a href="https://github.com/7sadakonr"><img src="https://skillicons.dev/icons?i=github" width="40" /></a> |
+| <a href="mailto:7sadakonr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a> | <a href="https://7sadakonr.xyz"><img src="7sadakonr.png" width="40" style="border-radius: 50%;" /></a> | <a href="https://github.com/7sadakonr"><img src="https://skillicons.dev/icons?i=github" width="40" /></a> |
 
 </div>
 
