@@ -45,10 +45,9 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" width="100%" />
 </div>
-
+  </br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7sadakonr&theme=dracula&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sadakonr&layout=compact&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" />
 </div>
 
 ---
