@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jetsadakorn Muangwichit</h1>
+  <h1 color=ff7777 >Jetsadakorn Muangwichit</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=ff7777&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI/UX+Designer;Hybrid+Developer+%7C+Web+%2B+Design" alt="Typing SVG" />
 </div>
