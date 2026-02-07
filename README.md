@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I'm passionate about the intersection of **Web Development** and **UI/UX Design**, focusing on building scalable, user-centric applications.
+I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge the gap between robust **Web Development** and intuitive **UI/UX Design**.
 
-* 🚀 **Currently exploring:** Advanced Backend Architectures & DevOps
-* 💡 **Goal:** To create digital experiences that are as functional as they are beautiful.
+* 🚀 **Current Focus:** Full-stack Architecture & AI Integration
+* 💡 **Philosophy:** Building software that doesn't just work, but feels great to use.
 * 🎓 **Education:** Junior CS Student @ Rajamangala University of Technology Suvarnabhumi.
 
 ---
@@ -40,7 +40,7 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I'm passi
 
 ---
 
-### 📊 Github Activity
+### 📊 GitHub Contributions & Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" width="100%" />
@@ -49,13 +49,17 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I'm passi
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7sadakonr&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7sadakonr&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sadakonr&layout=compact&theme=dracula&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" />
 </div>
 
 ---
 
-### 📬 Let's Connect!
+### 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
