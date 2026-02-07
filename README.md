@@ -1,47 +1,70 @@
-<h1 align="center">Hey 👋 I'm Jetsadakorn Muangwichit</h1>
-
-###
-
-## 👨‍💻 About Me
-
-I am a 3rd-year **Computer Science** student at Rajamangala University of Technology Suvarnabhumi (RMUTSB), Ayutthaya. I specialize in **Hybrid Development**, bridging the gap between robust **Web Development** and intuitive **UI/UX Design**.
-
-* 📍 **Based in:** Ayutthaya, Thailand
-* 🎯 **Focus:** Building efficient software solutions and high-quality digital experiences
-
-###
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" height="50" alt="frontend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" height="50" alt="backend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,git,github,vscode,postman" height="50" alt="tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jetsadakorn+Muangwichit;Software+Engineer+In+The+Making;Hybrid+Developer+%26+UI+Designer" alt="Typing SVG" />
 </div>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Ayutthaya%2C_Thailand-blue?style=flat-square" />
+</p>
 
-## 📊 GitHub Statistics
+---
+
+### 👨‍💻 About Me
+
+I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I'm passionate about the intersection of **Web Development** and **UI/UX Design**, focusing on building scalable, user-centric applications.
+
+* 🚀 **Currently exploring:** Advanced Backend Architectures & DevOps
+* 💡 **Goal:** To create digital experiences that are as functional as they are beautiful.
+* 🎓 **Education:** Junior CS Student @ Rajamangala University of Technology Suvarnabhumi.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend & DB</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Tools & Design</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Github Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" width="100%" />
 </div>
 
-###
-
-## 📬 Connect with Me
+<br />
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7sadakonr&layout=compact&theme=dracula&border_radius=10" height="180" />
+</div>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://7sadakonr.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</div>
-
-###
+</p>
 
 <div align="center">
   <img src="https://count.getloli.com/@:7sadakonr?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
