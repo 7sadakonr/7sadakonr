@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Jetsadakorn Muangwichit</h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=ff7777&center=true&vCenter=true&width=500&lines=Hybrid+Development+Approach;Building+Intuitive+Digital+Experiences;3rd+Year+Computer+Science+Student" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=ff7777&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;UI/UX+Designer;Hybrid+Developer+%7C+Web+%2B+Design" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,10 +9,17 @@
   <img src="https://img.shields.io/badge/Location-Ayutthaya%2C_Thailand-blue?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Earth%2C_Ayutthaya%2C_Thailand-blue?style=flat-square" />
-</p>
+---
+
+### 👨‍💻 Professional Profile
+
+ปัจจุบันผมเป็นนักศึกษาชั้นปีที่ 3 สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ ศูนย์พระนครศรีอยุธยา หันตรา โดยมีความถนัดโดดเด่นในรูปแบบ **Hybrid Skill** ที่ผสมผสานทักษะการเขียนโปรแกรม (Web Development) เข้ากับการออกแบบ (UI/UX Design) ได้อย่างลงตัว
+
+* 🚀 **ความเชี่ยวชาญ:** พัฒนา Web Application แบบ Full-stack และออกแบบ Digital Experience
+* 💡 **เป้าหมาย:** สร้างสรรค์ซอฟต์แวร์ที่ใช้งานง่ายและมีประสิทธิภาพสูงสุด (User-Centric Design)
+* 🎓 **การศึกษา:** วิทยาการคอมพิวเตอร์ (CS), RMUTSB Ayutthaya
+
+---
 
 ---
 
