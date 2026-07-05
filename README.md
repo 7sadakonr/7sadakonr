@@ -31,7 +31,7 @@ I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge 
     </td>
     <td align="center" width="33%">
       <strong>Backend & DB</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,prisma,docker" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
     </td>
     <td align="center" width="33%">
       <strong>Tools & Design</strong><br><br>
