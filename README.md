@@ -117,8 +117,6 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 </tr>
 </table>
 
-> The project cards are intentionally split into separate single-row tables so GitHub does not apply alternating row backgrounds. This keeps every project card visually consistent while preserving a clear featured-project hierarchy.
-
 ---
 
 ## Tech Stack
