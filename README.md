@@ -104,15 +104,9 @@ Task management with authentication and breached-password checking.
 
 ### AI & Coding Assistants
 
-<img height="48" src="https://cdn.simpleicons.org/openai/FF7777" alt="OpenAI" />
-&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/anthropic/8B5CF6" alt="Claude" />
-&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" />
-&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/googlegemini/6D28D9" alt="Antigravity" />
-&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/openai/FF4FA3" alt="Codex" />
+<img height="48" src="https://img.shields.io/badge/-FF7777?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
 
 </td>
 <td width="50%" valign="top" align="center">
