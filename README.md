@@ -82,11 +82,58 @@ Task management with authentication and breached-password checking.
 
 ## Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,postgres,prisma,supabase,git,github,figma,postman,vercel" alt="Technology stack" />
+### Frontend
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="Frontend technologies" />
+
+<br />
+
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" alt="Backend and database technologies" />
+
+<br />
+
+`Node.js` `Express` `PostgreSQL` `Prisma` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### AI & Coding Assistants
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Codex-FF7777?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<br />
+<img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge" alt="Antigravity" />
+<br />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" alt="Development tools" />
+
+<br />
+
+`Git` `GitHub` `Docker` `Vercel` `Figma` `Postman`
+
+</td>
+</tr>
+</table>
 
 ---
 
