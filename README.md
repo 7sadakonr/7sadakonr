@@ -55,9 +55,11 @@ A browser-based peer-to-peer transfer app for sending clipboard text and files d
 
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
-An accessible visual-assistance platform that connects blind users with volunteers through live video and provides AI-powered scene interpretation in Thai.
+An accessible visual-assistance platform with native WebRTC calls, Gemini-powered scene, currency, and document vision, plus browser-side object guidance.
 
-`Next.js` `WebRTC` `Pusher` `Llama Vision` `Accessibility`
+`Next.js 16` `React 19` `Gemini 3.1 Flash Lite` `Native WebRTC`
+
+`Pusher` `TensorFlow.js` `COCO-SSD` `Scanic`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
