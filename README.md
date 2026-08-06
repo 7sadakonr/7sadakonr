@@ -105,6 +105,11 @@ Task management with authentication and breached-password checking.
 
 <div align="center">
 
+<img width="100%" src="https://ghchart.rshah.org/FF7777/7sadakonr" alt="GitHub contribution calendar" />
+
+<br />
+<br />
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&bg_color=00000000&color=8B5CF6&line=FF7777&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&radius=12" alt="GitHub contribution activity graph" />
 
 </div>
