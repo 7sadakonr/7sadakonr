@@ -100,16 +100,7 @@ Task management with authentication and breached-password checking.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
-
-### AI Coding Tools
-
-<img height="52" src="https://cdn.simpleicons.org/openai/FF7777" alt="Codex" title="Codex" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="52" src="https://cdn.simpleicons.org/googlegemini/8B5CF6" alt="Antigravity" title="Antigravity" />
-
-</td>
-<td width="50%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
 ### Tools & Deployment
 
