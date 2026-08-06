@@ -2,9 +2,9 @@
 
 # Jetsadakorn Muangwichit
 
-### Full-Stack Developer · Frontend Engineer · UI/UX Enthusiast
+### Frontend-Focused Full-Stack Developer · UI/UX Enthusiast
 
-Computer Science student from Thailand building accessible, polished, and practical web applications.
+Building accessible, high-performance, and practical web applications from Thailand.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-FF7777?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
@@ -16,12 +16,22 @@ Computer Science student from Thailand building accessible, polished, and practi
 
 ## About Me
 
-I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I focus on modern frontend development, full-stack web applications, accessible user experiences, and practical AI integration.
+I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I enjoy turning product ideas into polished web experiences, with a strong focus on frontend engineering, accessibility, performance, security, and practical full-stack development.
 
 - Building with **Next.js, React, TypeScript, Node.js, PostgreSQL, Supabase, and WebRTC**
-- Interested in **frontend engineering, performance, accessibility, security, and product development**
-- Comfortable working with **Git branches, pull requests, code reviews, and deployment workflows**
+- Comfortable with **Git branches, pull requests, code reviews, and deployment workflows**
+- Interested in products that solve real problems through thoughtful design and reliable engineering
 - Currently looking for a **Frontend, Full-Stack, or Software Engineering internship**
+
+---
+
+## Current Focus
+
+<div align="center">
+
+`Production-ready web applications` · `Frontend performance` · `Accessibility-first interfaces` · `Secure full-stack systems`
+
+</div>
 
 ---
 
@@ -33,7 +43,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 ### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
-Peer-to-peer clipboard and file transfer without cloud storage.
+A browser-based peer-to-peer transfer experience for sending clipboard text and files directly between devices without cloud storage.
 
 `React` `Vite` `WebRTC` `PeerJS` `Zustand`
 
@@ -44,7 +54,7 @@ Peer-to-peer clipboard and file transfer without cloud storage.
 
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
-Accessibility assistant for identifying Thai banknotes with spoken feedback.
+An accessibility-focused assistant that helps users identify Thai banknotes through camera-based recognition and spoken feedback.
 
 `AI Vision` `Camera` `Speech` `Accessibility`
 
@@ -57,18 +67,19 @@ Accessibility assistant for identifying Thai banknotes with spoken feedback.
 
 ### [Personal Portfolio](https://github.com/7sadakonr/7sadakonr-portfolio)
 
-Interactive portfolio focused on responsive design and web performance.
+A responsive personal portfolio built around polished interaction design, performance-conscious implementation, and production deployment.
 
 `Next.js` `TypeScript` `Performance` `Vercel`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+[![Live Website](https://img.shields.io/badge/Live_Website-FF7777?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
+[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Secure Task Management](https://github.com/7sadakonr/Todo-List)
 
-Task management with authentication and breached-password checking.
+A secure task manager with authentication, protected user data, and breached-password checking built into the sign-up flow.
 
 `Next.js` `Supabase` `Security` `Authentication`
 
@@ -106,14 +117,14 @@ Task management with authentication and breached-password checking.
 
 ---
 
-## What I Care About
+## Engineering Values
 
 - Clean and maintainable component architecture
 - Responsive and accessible interfaces
 - Practical performance optimization
-- Thoughtful UI/UX decisions
-- Secure authentication and peer-to-peer data transfer
-- Using AI as an engineering assistant while reviewing and validating every change
+- Thoughtful UI/UX decisions backed by implementation details
+- Secure authentication and careful handling of user data
+- Reviewing and validating AI-assisted changes before shipping
 
 ---
 
