@@ -82,33 +82,27 @@ Task management with authentication and breached-password checking.
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="Frontend technologies" />
 
-</td>
-<td width="50%" valign="top" align="center">
+<br />
+<br />
 
 ### Backend & Data
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" alt="Backend and database technologies" />
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
+<br />
+<br />
 
 ### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" alt="Development tools" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
