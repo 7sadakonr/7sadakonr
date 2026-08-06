@@ -1,73 +1,72 @@
 <div align="center">
-  <h1>Jetsadakorn Muangwichit</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=ff7777&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI/UX+Designer;Hybrid+Developer+%7C+Web+%2B+Design" alt="Typing SVG" />
+
+# Jetsadakorn Muangwichit
+
+### Full-Stack Developer · Frontend Engineer · UI/UX Enthusiast
+
+Computer Science student from Thailand building accessible, polished, and practical web applications.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
+[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-16A34A?style=for-the-badge)](#)
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Internships-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Ayutthaya%2C_Thailand-blue?style=flat-square" />
-</p>
+## About Me
 
----
+I am a third-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I focus on modern frontend development, full-stack web applications, accessible user experiences, and practical AI integration.
 
-### 👨‍💻 About Me
+- Building with **Next.js, React, TypeScript, Node.js, PostgreSQL, and Supabase**
+- Interested in **frontend engineering, performance, accessibility, and product development**
+- Comfortable working with **Git branches, pull requests, code reviews, and deployment workflows**
+- Currently looking for a **Frontend, Full-Stack, or Software Engineering internship**
 
-I'm a 3rd-year **Computer Science** student at **RMUTSB (Ayutthaya)**. I bridge the gap between robust **Web Development** and intuitive **UI/UX Design**.
+## Featured Projects
 
-* 🚀 **Current Focus:** Full-stack Architecture & AI Integration
-* 💡 **Philosophy:** Building software that doesn't just work, but feels great to use.
-* 🎓 **Education:** Junior CS Student @ Rajamangala University of Technology Suvarnabhumi.
+### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
----
+An accessibility-focused assistant designed to help visually impaired users identify Thai banknotes and receive real-time spoken feedback.
 
-### 🛠️ Tech Stack & Tools
+**Highlights:** AI-assisted currency detection, camera input, speech management, accessibility-first interaction, and responsive web UI.
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & DB</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Tools & Design</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel" />
-    </td>
-  </tr>
-</table>
+### [Personal Portfolio](https://github.com/7sadakonr/7sadakonr-portfolio)
 
----
+A modern developer portfolio focused on interaction design, responsive layouts, animation, and web performance.
 
-### 📊 GitHub Contributions & Stats
+**Highlights:** Next.js, TypeScript, responsive UI, performance optimization, INP and layout-shift improvements, deployment on Vercel.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=16&theme=dracula&area=true&order=5" width="100%" />
-</div>
+### [Todo List](https://github.com/7sadakonr/Todo-List)
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7sadakonr&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" />
-</div>
+A security-conscious task management application with authentication and cloud data storage.
 
----
+**Highlights:** Next.js, Supabase integration, strong-password validation, breached-password checking, protected user data, and pull-request-based development.
 
-### 📬 Connect with Me
+## Tech Stack
 
 <div align="center">
 
-| **Email** | **Portfolio** | **GitHub** |
-| :---: | :---: | :---: |
-| <a href="mailto:7sadakonr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a> | <a href="https://7sadakonr.xyz"><img src="7sadakonr.png" width="40" style="border-radius: 50%;" /></a> | <a href="https://github.com/7sadakonr"><img src="https://skillicons.dev/icons?i=github" width="40" /></a> |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,supabase,git,github,figma,postman,vercel" alt="Technology stack" />
 
 </div>
 
-<br />
+## What I Care About
+
+- Clean and maintainable component architecture
+- Responsive and accessible interfaces
+- Practical performance optimization
+- Thoughtful UI/UX decisions
+- Secure authentication and data handling
+- Using AI as an engineering assistant while reviewing and validating every change
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://count.getloli.com/@:7sadakonr?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
-  <br />
-  <sub><i>Visitor Count</i></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&radius=12&theme=github-compact&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
 </div>
+
+## Contact
+
+- Portfolio: [7sadakonr.xyz](https://7sadakonr.xyz)
+- Email: [7sadakonr@gmail.com](mailto:7sadakonr@gmail.com)
+- GitHub: [github.com/7sadakonr](https://github.com/7sadakonr)
+- Location: Ayutthaya, Thailand
