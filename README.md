@@ -1,14 +1,18 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,100:FF7777&text=Jetsadakorn%20Muangwichit&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn" alt="Jetsadakorn Muangwichit — Frontend-Focused Full-Stack Developer" />
+</p>
+
 <div align="center">
-
-# Jetsadakorn Muangwichit
-
-### Frontend-Focused Full-Stack Developer · Accessibility & Product UI
 
 Building accessible, high-performance, and practical web applications from Thailand.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-FF7777?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
 [![Internship](https://img.shields.io/badge/Status-Open_for_Internships-FF7777?style=for-the-badge)](mailto:7sadakonr@gmail.com)
+
+<br />
+
+[About](#about-me) · [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [Activity](#github-activity) · [Contact](#contact)
 
 </div>
 
@@ -41,33 +45,46 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/FEATURED-8B5CF6?style=flat-square" alt="Featured project" />
+
 ### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 A browser-based P2P application for transferring clipboard text, files, and folders directly through WebRTC data channels, with QR pairing and PWA support.
+
+**Highlights:** Direct browser-to-browser transfer, QR pairing, clipboard sharing, and installable PWA experience.
 
 `React 18` `Vite 5` `PeerJS` `WebRTC`
 
 `Zustand` `Tailwind CSS 3` `Framer Motion` `PWA`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/FEATURED-8B5CF6?style=flat-square" alt="Featured project" />
+
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
 An accessible visual-assistance platform with native WebRTC calls, Gemini-powered scene, currency, and document vision, plus browser-side object guidance.
+
+**Highlights:** Accessibility-first design, real-time assistance, AI vision, and browser-side object detection.
 
 `Next.js 16` `React 19` `Gemini 3.1 Flash Lite`
 
 `Native WebRTC` `Pusher` `TensorFlow.js` `COCO-SSD` `Scanic`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
-[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
 
 </td>
 </tr>
+</table>
+
+### Additional Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -80,7 +97,7 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 `Lenis` `EmailJS` `React Rough Notation` `Custom CSS`
 
 [![Live Website](https://img.shields.io/badge/Live_Website-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -94,11 +111,13 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 `Supabase Auth` `PostgreSQL` `RLS` `Three.js` `OGL`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
 </td>
 </tr>
 </table>
+
+> The project cards are intentionally split into separate single-row tables so GitHub does not apply alternating row backgrounds. This keeps every project card visually consistent while preserving a clear featured-project hierarchy.
 
 ---
 
@@ -181,3 +200,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 Ayutthaya, Thailand
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8B5CF6,100:FF7777" alt="Footer decoration" />
+</p>
