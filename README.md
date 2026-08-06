@@ -105,7 +105,11 @@ Task management with authentication and breached-password checking.
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/FF7777/7sadakonr" alt="GitHub contribution calendar" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br />
 <br />
