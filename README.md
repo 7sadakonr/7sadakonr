@@ -48,7 +48,7 @@ A browser-based peer-to-peer transfer app for sending clipboard text and files d
 `React` `Vite` `WebRTC` `PeerJS` `Zustand`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@ An accessible visual-assistance platform that connects blind users with voluntee
 `Next.js` `WebRTC` `Pusher` `Llama Vision` `Accessibility`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
-[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ An interactive universe-themed portfolio with glassmorphism, command-menu naviga
 `React` `TypeScript` `Vite` `GSAP` `Three.js`
 
 [![Live Website](https://img.shields.io/badge/Live_Website-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +86,7 @@ A full-stack task-management system with JWT authentication, CRUD workflows, pro
 `Next.js` `Express` `Prisma` `PostgreSQL` `JWT`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
 </td>
 </tr>
