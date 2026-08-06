@@ -2,13 +2,13 @@
 
 # Jetsadakorn Muangwichit
 
-### Frontend-Focused Full-Stack Developer · UI/UX Enthusiast
+### Frontend-Focused Full-Stack Developer · Accessibility & Product UI
 
 Building accessible, high-performance, and practical web applications from Thailand.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-FF7777?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
-[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-FF7777?style=for-the-badge)](#)
+[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-FF7777?style=for-the-badge)](mailto:7sadakonr@gmail.com)
 
 </div>
 
@@ -16,10 +16,10 @@ Building accessible, high-performance, and practical web applications from Thail
 
 ## About Me
 
-I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I enjoy turning product ideas into polished web experiences, with a strong focus on frontend engineering, accessibility, performance, security, and practical full-stack development.
+I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I enjoy turning product ideas into polished web experiences, with a strong focus on frontend engineering, accessibility, performance, real-time communication, and secure full-stack development.
 
-- Building with **Next.js, React, TypeScript, Node.js, PostgreSQL, Supabase, and WebRTC**
-- Comfortable with **Git branches, pull requests, code reviews, and deployment workflows**
+- Building with **React, Next.js, TypeScript, Vite, Node.js, PostgreSQL, Prisma, and WebRTC**
+- Comfortable with **Git branches, pull requests, code reviews, testing, and deployment workflows**
 - Interested in products that solve real problems through thoughtful design and reliable engineering
 - Currently looking for a **Frontend, Full-Stack, or Software Engineering internship**
 
@@ -29,7 +29,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 <div align="center">
 
-`Production-ready web applications` · `Frontend performance` · `Accessibility-first interfaces` · `Secure full-stack systems`
+`Accessible product interfaces` · `Real-time web applications` · `Frontend performance` · `Secure full-stack systems`
 
 </div>
 
@@ -43,22 +43,24 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 ### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
-A browser-based peer-to-peer transfer experience for sending clipboard text and files directly between devices without cloud storage.
+A browser-based peer-to-peer transfer app for sending clipboard text and files directly between devices without cloud storage.
 
 `React` `Vite` `WebRTC` `PeerJS` `Zustand`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF7777?style=flat-square&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
-An accessibility-focused assistant that helps users identify Thai banknotes through camera-based recognition and spoken feedback.
+An accessible visual-assistance platform that connects blind users with volunteers through live video and provides AI-powered scene interpretation in Thai.
 
-`AI Vision` `Camera` `Speech` `Accessibility`
+`Next.js` `WebRTC` `Pusher` `Llama Vision` `Accessibility`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
 
 </td>
 </tr>
@@ -67,9 +69,9 @@ An accessibility-focused assistant that helps users identify Thai banknotes thro
 
 ### [Personal Portfolio](https://github.com/7sadakonr/7sadakonr-portfolio)
 
-A responsive personal portfolio built around polished interaction design, performance-conscious implementation, and production deployment.
+An interactive universe-themed portfolio with glassmorphism, command-menu navigation, advanced animation, and performance-conscious rendering.
 
-`Next.js` `TypeScript` `Performance` `Vercel`
+`React` `TypeScript` `Vite` `GSAP` `Three.js`
 
 [![Live Website](https://img.shields.io/badge/Live_Website-FF7777?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
 [![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
@@ -77,13 +79,14 @@ A responsive personal portfolio built around polished interaction design, perfor
 </td>
 <td width="50%" valign="top">
 
-### [Secure Task Management](https://github.com/7sadakonr/Todo-List)
+### [Integrated Task Management](https://github.com/7sadakonr/Todo-List)
 
-A secure task manager with authentication, protected user data, and breached-password checking built into the sign-up flow.
+A full-stack task-management system with JWT authentication, CRUD workflows, productivity analytics, filtering, and profile management.
 
-`Next.js` `Supabase` `Security` `Authentication`
+`Next.js` `Express` `Prisma` `PostgreSQL` `JWT`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
 </td>
 </tr>
@@ -95,16 +98,16 @@ A secure task manager with authentication, protected user data, and breached-pas
 
 <div align="center">
 
-### Frontend
+### Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="Languages and frontend technologies" />
 
 <br />
 <br />
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Backend and database technologies" />
 
 <br />
 <br />
