@@ -27,47 +27,56 @@ I am a third-year Computer Science student at Rajamangala University of Technolo
 
 ## Featured Projects
 
-### [Zendix — P2P Clipboard & File Transfer](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A peer-to-peer file and clipboard sharing web app that transfers data directly between devices without storing files in the cloud.
+### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
-**Highlights:** WebRTC and PeerJS, end-to-end encrypted transfers, QR-code pairing, clipboard synchronization, cross-platform browser support, and file-transfer progress up to 100 MB.
+Peer-to-peer clipboard and file transfer without cloud storage.
 
-### [Nyeta — Accessibility Assistant](https://github.com/7sadakonr/Nyeta)
+`React` `Vite` `WebRTC` `PeerJS` `Zustand`
 
-An accessibility-focused assistant designed to help visually impaired users identify Thai banknotes and receive real-time spoken feedback.
+[![View Repository](https://img.shields.io/badge/View_Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
-**Highlights:** AI-assisted currency detection, camera input, speech management, accessibility-first interaction, and responsive web UI.
+</td>
+<td width="50%" valign="top">
+
+### [Nyeta](https://github.com/7sadakonr/Nyeta)
+
+Accessibility assistant for identifying Thai banknotes with spoken feedback.
+
+`AI Vision` `Camera` `Speech` `Accessibility`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Personal Portfolio](https://github.com/7sadakonr/7sadakonr-portfolio)
 
-A modern developer portfolio focused on interaction design, responsive layouts, animation, and web performance.
+Interactive portfolio focused on responsive design and web performance.
 
-**Highlights:** Next.js, TypeScript, responsive UI, performance optimization, INP and layout-shift improvements, and Vercel deployment.
+`Next.js` `TypeScript` `Performance` `Vercel`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Secure Task Management](https://github.com/7sadakonr/Todo-List)
 
-A security-conscious task management application with authentication and cloud data storage.
+Task management with authentication and breached-password checking.
 
-**Highlights:** Next.js, Supabase integration, strong-password validation, breached-password checking, protected user data, and pull-request-based development.
+`Next.js` `Supabase` `Security` `Authentication`
 
-<div align="center">
+[![View Repository](https://img.shields.io/badge/View_Repository-FF7777?style=flat-square&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
-<a href="https://github.com/7sadakonr/Zendix-Filetransfer-Web-App">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7sadakonr&repo=Zendix-Filetransfer-Web-App&theme=transparent&hide_border=true&title_color=FF7777&text_color=9CA3AF&icon_color=8B5CF6" alt="Zendix repository card" />
-</a>
-<a href="https://github.com/7sadakonr/Nyeta">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7sadakonr&repo=Nyeta&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=FF7777" alt="Nyeta repository card" />
-</a>
-
-<a href="https://github.com/7sadakonr/7sadakonr-portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7sadakonr&repo=7sadakonr-portfolio&theme=transparent&hide_border=true&title_color=FF7777&text_color=9CA3AF&icon_color=8B5CF6" alt="Portfolio repository card" />
-</a>
-<a href="https://github.com/7sadakonr/Todo-List">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=7sadakonr&repo=Todo-List&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=FF7777" alt="Task management repository card" />
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,12 +105,7 @@ A security-conscious task management application with authentication and cloud d
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&bg_color=00000000&color=8B5CF6&line=FF7777&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&radius=12" alt="GitHub contribution calendar" />
-
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=7sadakonr&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=FF7777&text_color=9CA3AF&icon_color=8B5CF6" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=7sadakonr&theme=transparent&hide_border=true&ring=FF7777&fire=8B5CF6&currStreakLabel=FF7777&sideLabels=9CA3AF&dates=9CA3AF&currStreakNum=8B5CF6&sideNums=FF7777" alt="GitHub contribution streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&bg_color=00000000&color=8B5CF6&line=FF7777&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&radius=12" alt="GitHub contribution activity graph" />
 
 </div>
 
