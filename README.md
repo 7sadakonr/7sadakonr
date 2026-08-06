@@ -16,7 +16,7 @@ Computer Science student from Thailand building accessible, polished, and practi
 
 ## About Me
 
-I am a third-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I focus on modern frontend development, full-stack web applications, accessible user experiences, and practical AI integration.
+I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I focus on modern frontend development, full-stack web applications, accessible user experiences, and practical AI integration.
 
 - Building with **Next.js, React, TypeScript, Node.js, PostgreSQL, Supabase, and WebRTC**
 - Interested in **frontend engineering, performance, accessibility, security, and product development**
