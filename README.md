@@ -136,14 +136,6 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" alt="Git, GitHub, Docker, Vercel, Figma, Postman, and Visual Studio Code" />
 
-<br />
-<br />
-
-### AI Coding Assistants
-
-<img height="42" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" title="Codex" />
-<img height="42" src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" title="Antigravity" />
-
 </div>
 
 ---
