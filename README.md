@@ -102,11 +102,11 @@ Task management with authentication and breached-password checking.
 <tr>
 <td width="50%" valign="top" align="center">
 
-### AI & Coding Assistants
+### AI Coding Tools
 
-<img height="48" src="https://img.shields.io/badge/-FF7777?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<img height="52" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/codex.svg" alt="Codex" />
 &nbsp;&nbsp;&nbsp;
-<img height="48" src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
+<img height="52" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/antigravity.svg" alt="Antigravity" />
 
 </td>
 <td width="50%" valign="top" align="center">
