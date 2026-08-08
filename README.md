@@ -186,7 +186,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" alt="Git, GitHub, Docker, Vercel, Figma, Postman, and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode" alt="Git, GitHub, Vercel, Figma, Postman, and Visual Studio Code" />
 
 <br />
 
