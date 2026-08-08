@@ -143,7 +143,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ### Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, and Three.js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS." />
 
 <br />
 
