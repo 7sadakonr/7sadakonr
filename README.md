@@ -17,7 +17,7 @@ Building accessible, high-performance, and practical web applications from Thail
 
 <br />
 
-[About](#about-me) · [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [Activity](#github-activity) · [Contact](#contact)
+[About](#about-me) · [Projects](#featured-projects) · [Technologies](#technologies-ive-worked-with) · [Activity](#github-activity) · [Contact](#contact)
 
 </div>
 
@@ -128,16 +128,50 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ---
 
-## Tech Stack
+## Technologies I've Worked With
+
+<p align="center">
+  <sub>A focused selection of technologies I've used across my projects.</sub>
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,postgres,supabase,git,github,vercel" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, and Vercel" />
+### Languages & Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, and Three.js" />
+
+<br />
+
+`React Router` · `Zustand` · `Framer Motion`
 
 <br />
 <br />
 
-`WebRTC` · `PeerJS` · `Pusher` · `TensorFlow.js` · `Gemini API` · `Vitest` · `Playwright` · `Three.js`
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis" alt="Node.js, PostgreSQL, Supabase, and Redis" />
+
+<br />
+
+`Supabase Auth` · `Row-Level Security` · `Upstash Redis`
+
+<br />
+<br />
+
+### Real-Time & AI
+
+`WebRTC` · `PeerJS` · `Pusher Channels` · `Gemini API` · `TensorFlow.js`
+
+<br />
+<br />
+
+### Testing & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, and Vercel" />
+
+<br />
+
+`Vitest` · `Playwright` · `ESLint`
 
 </div>
 
