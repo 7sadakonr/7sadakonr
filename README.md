@@ -16,8 +16,13 @@ Building accessible, high-performance, and practical web applications from Thail
 [![Internship](https://img.shields.io/badge/Status-Open_for_Internships-FF7777?style=for-the-badge)](mailto:7sadakonr@gmail.com)
 
 <br />
+<br />
 
-[About](#about-me) · [Projects](#featured-projects) · [Technologies](#technologies-ive-worked-with) · [Activity](#github-activity) · [Contact](#contact)
+[![About](https://img.shields.io/badge/About-8B5CF6?style=flat-square&logo=aboutdotme&logoColor=white)](#about-me)
+[![Projects](https://img.shields.io/badge/Projects-FF7777?style=flat-square&logo=github&logoColor=white)](#featured-projects)
+[![Technologies](https://img.shields.io/badge/Technologies-8B5CF6?style=flat-square&logo=stackshare&logoColor=white)](#technologies-ive-worked-with)
+[![Activity](https://img.shields.io/badge/GitHub_Activity-FF7777?style=flat-square&logo=github&logoColor=white)](#github-activity)
+[![Contact](https://img.shields.io/badge/Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](#contact)
 
 </div>
 
@@ -131,7 +136,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 ## Technologies I've Worked With
 
 <p align="center">
-  <sub>A focused selection of technologies I've used across my projects.</sub>
+  <sub>Technologies I've used hands-on across shipped projects and experiments.</sub>
 </p>
 
 <div align="center">
@@ -142,7 +147,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 <br />
 
-`React Router` · `Zustand` · `Framer Motion`
+`React Router` · `Zustand` · `Framer Motion` · `OGL`
 
 <br />
 <br />
@@ -153,7 +158,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 <br />
 
-`Supabase Auth` · `Row-Level Security` · `Upstash Redis`
+`Supabase Auth` · `PostgreSQL RLS` · `Upstash Redis`
 
 <br />
 <br />
