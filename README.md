@@ -137,15 +137,26 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, and Three.js" />
 
 <br />
-<br />
 
-### Backend, Data & Real-Time
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" alt="Node.js, PostgreSQL, and Supabase" />
+`React Router` · `Zustand` · `Framer Motion` · `Lenis` · `OGL` · `React Rough Notation`
 
 <br />
+<br />
 
-`WebRTC` · `PeerJS` · `Pusher Channels` · `PostgreSQL Row-Level Security`
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,prisma,redis" alt="Node.js, Express, PostgreSQL, Supabase, Prisma, and Redis" />
+
+<br />
+
+`Supabase Auth` · `PostgreSQL Row-Level Security` · `REST APIs` · `Upstash Redis`
+
+<br />
+<br />
+
+### Real-Time & P2P
+
+`WebRTC` · `WebRTC DataChannel` · `PeerJS` · `Pusher Channels` · `PWA`
 
 <br />
 <br />
@@ -156,11 +167,30 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 <img height="44" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
 
 <br />
+
+`Google Gemini API` · `TensorFlow.js` · `COCO-SSD` · `Scanic`
+
+<br />
+<br />
+
+### Testing & Quality
+
+<img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
+
+<br />
+
+`Vitest` · `Playwright` · `Testing Library` · `ESLint`
+
+<br />
 <br />
 
 ### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode" alt="Git, GitHub, Docker, Vercel, Figma, Postman, and Visual Studio Code" />
+
+<br />
+
+`EmailJS` · `Vercel Analytics` · `Vercel Speed Insights`
 
 </div>
 
