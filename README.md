@@ -132,65 +132,12 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 <div align="center">
 
-### Languages & Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, and Three.js" />
-
-<br />
-
-`React Router` · `Zustand` · `Framer Motion` · `Lenis` · `OGL` · `React Rough Notation`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,postgres,supabase,git,github,vercel" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, and Vercel" />
 
 <br />
 <br />
 
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,prisma,redis" alt="Node.js, Express, PostgreSQL, Supabase, Prisma, and Redis" />
-
-<br />
-
-`Supabase Auth` · `PostgreSQL Row-Level Security` · `REST APIs` · `Upstash Redis`
-
-<br />
-<br />
-
-### Real-Time & P2P
-
-`WebRTC` · `WebRTC DataChannel` · `PeerJS` · `Pusher Channels` · `PWA`
-
-<br />
-<br />
-
-### AI & Computer Vision
-
-<img height="44" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
-<img height="44" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-
-<br />
-
-`Google Gemini API` · `TensorFlow.js` · `COCO-SSD` · `Scanic`
-
-<br />
-<br />
-
-### Testing & Quality
-
-<img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
-
-<br />
-
-`Vitest` · `Playwright` · `Testing Library` · `ESLint`
-
-<br />
-<br />
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode" alt="Git, GitHub, Vercel, Figma, Postman, and Visual Studio Code" />
-
-<br />
-
-`EmailJS` · `Vercel Analytics` · `Vercel Speed Insights`
+`WebRTC` · `PeerJS` · `Pusher` · `TensorFlow.js` · `Gemini API` · `Vitest` · `Playwright` · `Three.js`
 
 </div>
 
