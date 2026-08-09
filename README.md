@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5CF6,100:FF7777&text=Jetsadakorn%20Muangwichit&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn" alt="Jetsadakorn Muangwichit — Frontend-Focused Full-Stack Developer" />
+  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/profile-brand.svg" alt="7sadakonr — Jetsadakorn Muangwichit, Frontend-focused Full-Stack Developer" />
 </p>
 
 <div align="center">
