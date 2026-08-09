@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/profile-brand.svg" alt="7sadakonr — Jetsadakorn Muangwichit, Frontend-focused Full-Stack Developer" />
+  <img width="100%" src="https://coolreadme.xyz/api/avatar-card?user=7sadakonr&amp;status=OPEN%20TO%20INTERNSHIPS&amp;focus=Frontend%20Engineering%20%7C%20Accessibility%20%7C%20Real-Time%20Web" alt="7sadakonr GitHub avatar profile card" />
 </p>
 
 <div align="center">
