@@ -60,8 +60,9 @@ def nested_svg(svg_text: str, *, x: int, y: int, width: int, height: int) -> str
 
 
 def build_terminal(snake_svg: str, graph_svg: str) -> str:
-    snake = nested_svg(snake_svg, x=58, y=112, width=1084, height=136)
-    graph = nested_svg(graph_svg, x=46, y=340, width=1108, height=352)
+    # Slightly enlarge the contribution calendar while keeping the overall card compact.
+    snake = nested_svg(snake_svg, x=44, y=112, width=1112, height=154)
+    graph = nested_svg(graph_svg, x=46, y=350, width=1108, height=326)
 
     return f'''<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -80,18 +81,18 @@ def build_terminal(snake_svg: str, graph_svg: str) -> str:
     <text x="112" y="34" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">GitHub Activity</text>
     <text x="1150" y="34" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/activity/dashboard.sh</text>
 
-    <rect x="24" y="78" width="1152" height="194" rx="18" fill="#0B1220" stroke="#30363D"/>
+    <rect x="24" y="78" width="1152" height="216" rx="18" fill="#0B1220" stroke="#30363D"/>
     <circle cx="46" cy="99" r="4.5" fill="#FF5F57"/>
     <circle cx="59" cy="99" r="4.5" fill="#FEBC2E"/>
     <circle cx="72" cy="99" r="4.5" fill="#28C840"/>
     <text x="92" y="103" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-snake.svg</text>
     {snake}
 
-    <rect x="24" y="294" width="1152" height="402" rx="18" fill="#0B1220" stroke="#30363D"/>
-    <circle cx="46" cy="315" r="4.5" fill="#FF5F57"/>
-    <circle cx="59" cy="315" r="4.5" fill="#FEBC2E"/>
-    <circle cx="72" cy="315" r="4.5" fill="#28C840"/>
-    <text x="92" y="319" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-graph.svg</text>
+    <rect x="24" y="306" width="1152" height="390" rx="18" fill="#0B1220" stroke="#30363D"/>
+    <circle cx="46" cy="327" r="4.5" fill="#FF5F57"/>
+    <circle cx="59" cy="327" r="4.5" fill="#FEBC2E"/>
+    <circle cx="72" cy="327" r="4.5" fill="#28C840"/>
+    <text x="92" y="331" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-graph.svg</text>
     {graph}
 
     <rect x="1118" y="675" width="2" height="16" fill="#FF7777"/>
