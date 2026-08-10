@@ -65,9 +65,9 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FEATURED-8B5CF6?style=flat" alt="Featured project" />
+<img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Zendix](https://img.shields.io/badge/Zendix-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 A browser-based P2P application for transferring clipboard text, files, and folders directly through WebRTC data channels, with QR pairing and PWA support.
 
@@ -85,7 +85,7 @@ A browser-based P2P application for transferring clipboard text, files, and fold
 
 <img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-### [Nyeta](https://github.com/7sadakonr/Nyeta)
+[![Nyeta](https://img.shields.io/badge/Nyeta-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Nyeta)
 
 An accessible visual-assistance platform with native WebRTC calls, Gemini-powered scene, currency, and document vision, plus browser-side object guidance.
 
@@ -108,7 +108,7 @@ An accessible visual-assistance platform with native WebRTC calls, Gemini-powere
 <tr>
 <td width="50%" valign="top">
 
-### [Personal Portfolio](https://github.com/7sadakonr/7sadakonr-portfolio)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
 
 An interactive universe-themed portfolio with custom CSS effects, command-menu navigation, Lenis smooth scrolling, and an EmailJS contact flow.
 
@@ -122,7 +122,7 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 </td>
 <td width="50%" valign="top">
 
-### [Integrated Task Management](https://github.com/7sadakonr/Todo-List)
+[![Integrated Task Management](https://img.shields.io/badge/Integrated_Task_Management-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
 A task-management application with Supabase authentication, PostgreSQL Row-Level Security, CRUD and Kanban workflows, breached-password checking, and WebGL interface effects.
 
