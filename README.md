@@ -126,7 +126,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 `Next.js 16` `React 19` `TypeScript 5` `Tailwind CSS 4`
 
-`Supabase Auth` `PostgreSQL RLS` `RLS` `OGL`
+`Supabase Auth` `PostgreSQL` `RLS` `OGL`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat-square&logo=github&logoColor=FF7777)](https://github.com/7sadakonr/Todo-List)
