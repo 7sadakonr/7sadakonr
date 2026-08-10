@@ -12,17 +12,17 @@ Building accessible, high-performance, and practical web applications from Thail
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-FCE7F3?style=for-the-badge&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-F5F3FF?style=for-the-badge&labelColor=EC4899&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-F5F3FF?style=for-the-badge&labelColor=FF7777&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
 [![Internship](https://img.shields.io/badge/Status-Open_for_Internships-FCE7F3?style=for-the-badge&labelColor=8B5CF6)](mailto:7sadakonr@gmail.com)
 
 <br />
 <br />
 
-[![About](https://img.shields.io/badge/About-F5F3FF?style=flat&logo=aboutdotme&logoColor=EC4899)](#about-me)
+[![About](https://img.shields.io/badge/About-F5F3FF?style=flat&logo=aboutdotme&logoColor=FF7777)](#about-me)
 [![Projects](https://img.shields.io/badge/Projects-FCE7F3?style=flat&logo=github&logoColor=8B5CF6)](#featured-projects)
-[![Technologies](https://img.shields.io/badge/Technologies-F5F3FF?style=flat&logo=stackshare&logoColor=EC4899)](#technologies-ive-worked-with)
+[![Technologies](https://img.shields.io/badge/Technologies-F5F3FF?style=flat&logo=stackshare&logoColor=FF7777)](#technologies-ive-worked-with)
 [![Activity](https://img.shields.io/badge/GitHub_Activity-FCE7F3?style=flat&logo=github&logoColor=8B5CF6)](#github-activity)
-[![Contact](https://img.shields.io/badge/Contact-F5F3FF?style=flat&logo=gmail&logoColor=EC4899)](#contact)
+[![Contact](https://img.shields.io/badge/Contact-F5F3FF?style=flat&logo=gmail&logoColor=FF7777)](#contact)
 
 </div>
 
@@ -43,7 +43,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 ## Current Focus
 
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-cat%20focus.txt-F5F3FF?style=flat&labelColor=EC4899&logo=gnubash&logoColor=white" alt="cat focus.txt" />
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-cat%20focus.txt-F5F3FF?style=flat&labelColor=FF7777&logo=gnubash&logoColor=white" alt="cat focus.txt" />
 
 <div align="center">
 
@@ -78,12 +78,12 @@ A browser-based P2P application for transferring clipboard text, files, and fold
 `Zustand` `Tailwind CSS 3` `Framer Motion` `PWA`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FCE7F3?style=flat&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=EC4899&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=FF7777&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FEATURED-F5F3FF?style=flat&labelColor=EC4899" alt="Featured project" />
+<img src="https://img.shields.io/badge/FEATURED-F5F3FF?style=flat&labelColor=FF7777" alt="Featured project" />
 
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
@@ -96,7 +96,7 @@ An accessible visual-assistance platform with native WebRTC calls, Gemini-powere
 `Native WebRTC` `Pusher` `TensorFlow.js` `COCO-SSD` `Scanic`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FCE7F3?style=flat&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=EC4899&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=FF7777&logo=github&logoColor=white)](https://github.com/7sadakonr/Nyeta)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 `Lenis` `EmailJS` `React Rough Notation` `Custom CSS`
 
 [![Live Website](https://img.shields.io/badge/Live_Website-FCE7F3?style=flat&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=EC4899&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=FF7777&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 `Supabase Auth` `PostgreSQL` `RLS` `OGL`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FCE7F3?style=flat&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=EC4899&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+[![Source Code](https://img.shields.io/badge/Source_Code-F5F3FF?style=flat&labelColor=FF7777&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ## Technologies I've Worked With
 
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-cat%20stack.txt-F5F3FF?style=flat&labelColor=EC4899&logo=gnubash&logoColor=white" alt="cat stack.txt" />
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-cat%20stack.txt-F5F3FF?style=flat&labelColor=FF7777&logo=gnubash&logoColor=white" alt="cat stack.txt" />
 
 <p align="center">
   <sub>Technologies I've used hands-on across shipped projects and experiments.</sub>
@@ -205,7 +205,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ## GitHub Activity
 
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-.%2Factivity.sh-F5F3FF?style=flat&labelColor=EC4899&logo=gnubash&logoColor=white" alt="activity.sh" />
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-.%2Factivity.sh-F5F3FF?style=flat&labelColor=FF7777&logo=gnubash&logoColor=white" alt="activity.sh" />
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-activity-terminal.svg" alt="GitHub activity shown inside a terminal-style frame" />
@@ -225,7 +225,7 @@ Open to **Frontend, Full-Stack, and Software Engineering internship opportunitie
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FCE7F3?style=for-the-badge&labelColor=8B5CF6&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-F5F3FF?style=for-the-badge&labelColor=EC4899&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-F5F3FF?style=for-the-badge&labelColor=FF7777&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7sadakonr-FCE7F3?style=for-the-badge&labelColor=8B5CF6&logo=github&logoColor=white)](https://github.com/7sadakonr)
 
 <br />
@@ -236,6 +236,6 @@ Ayutthaya, Thailand
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-exit%200-F5F3FF?style=flat&labelColor=EC4899&logo=gnubash&logoColor=white" alt="exit 0" />
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-exit%200-F5F3FF?style=flat&labelColor=FF7777&logo=gnubash&logoColor=white" alt="exit 0" />
 
 </div>
