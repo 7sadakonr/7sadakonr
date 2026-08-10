@@ -1,0 +1,36 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="outerClip">
+      <rect x="1" y="1" width="1198" height="758" rx="28" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect width="1200" height="760" fill="#0D1117" />
+    <rect x="1" y="1" width="1198" height="758" rx="28" fill="none" stroke="#30363D" stroke-width="2" />
+
+    <rect width="1200" height="56" fill="#111827" />
+    <line x1="0" y1="56" x2="1200" y2="56" stroke="#21262D" />
+    <circle cx="28" cy="28" r="7" fill="#FF5F57" />
+    <circle cx="51" cy="28" r="7" fill="#FEBC2E" />
+    <circle cx="74" cy="28" r="7" fill="#28C840" />
+    <text x="112" y="34" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">GitHub Activity</text>
+    <text x="1150" y="34" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/activity/dashboard.sh</text>
+
+    <rect x="24" y="78" width="1152" height="208" rx="18" fill="#0B1220" stroke="#30363D" />
+    <circle cx="46" cy="99" r="4.5" fill="#FF5F57" />
+    <circle cx="59" cy="99" r="4.5" fill="#FEBC2E" />
+    <circle cx="72" cy="99" r="4.5" fill="#28C840" />
+    <text x="92" y="103" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-snake.svg</text>
+    <image href="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-contribution-grid-snake-dark.svg" x="44" y="116" width="1112" height="148" preserveAspectRatio="xMidYMid meet" />
+
+    <rect x="24" y="306" width="1152" height="428" rx="18" fill="#0B1220" stroke="#30363D" />
+    <circle cx="46" cy="327" r="4.5" fill="#FF5F57" />
+    <circle cx="59" cy="327" r="4.5" fill="#FEBC2E" />
+    <circle cx="72" cy="327" r="4.5" fill="#28C840" />
+    <text x="92" y="331" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-graph.svg</text>
+    <image href="https://github-readme-activity-graph.vercel.app/graph?username=7sadakonr&amp;bg_color=0D1117&amp;color=E6EDF3&amp;line=FF7777&amp;point=FF7777&amp;area=true&amp;area_color=8B5CF6&amp;hide_border=true&amp;radius=12" x="40" y="346" width="1120" height="366" preserveAspectRatio="xMidYMid meet" />
+
+    <rect x="1117" y="718" width="2" height="16" fill="#FF7777" />
+  </g>
+</svg>
