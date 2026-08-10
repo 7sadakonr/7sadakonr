@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,7 +28,10 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#FF4FA3&color_dots=#F3F4F6,#EDE9FE,#C4B5FD,#8B5CF6,#5B21B6
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF6FB5&color_dots=#21262D,#3B0764,#6D28D9,#9333EA,#C084FC
 
-      - name: Publish snake animation
+      - name: Build self-contained terminal activity card
+        run: python3 .github/scripts/build_activity_terminal.py
+
+      - name: Publish profile activity assets
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
