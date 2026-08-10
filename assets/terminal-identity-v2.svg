@@ -59,7 +59,7 @@
       <tspan x="495" y="274">  .8'     8&quot;&quot;88888P' o88o     o8888oo888bood8P'  o88o     o8888oo888o  o888o `Y8bood8P' o8o        `8 o888o  o888o</tspan>
     </text>
     <line x1="495" y1="305" x2="1144" y2="305" stroke="#2A2631"/>
-    <text x="495" y="334" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5">Frontend-Focused Full-Stack Developer</text>
+    <text x="495" y="334" fill="#FF7777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5">Frontend-Focused Full-Stack Developer</text>
     <text x="495" y="357" fill="#A9A2B2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">accessibility · realtime web · product UI · AI vision</text>
 
     <rect x="24" y="397" width="1152" height="97" rx="18" fill="#0D131C" stroke="#242A33"/>
@@ -67,7 +67,7 @@
     <circle cx="59" cy="417" r="4.5" fill="#FEBC2E"/>
     <circle cx="72" cy="417" r="4.5" fill="#28C840"/>
     <text x="92" y="421" fill="#8B8496" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">profile@github:~</text>
-    <text x="46" y="452" fill="#B8A7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700">7sadakonr@github</text>
+    <text x="46" y="452" fill="#FF7777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="700">7sadakonr@github</text>
     <text x="184" y="452" fill="#A9A2B2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5">~ $</text>
     <text x="220" y="452" fill="#F0F3F6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5">whoami</text>
     <text x="46" y="477" fill="#D0CAD8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">Jetsadakorn Muangwichit · Thailand · open to internships</text>
