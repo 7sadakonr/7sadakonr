@@ -11,18 +11,18 @@ Building accessible, high-performance, and practical web applications from Thail
 <br />
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
-[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-8B5CF6?style=for-the-badge)](mailto:7sadakonr@gmail.com)
+<kbd><a href="https://7sadakonr.xyz">Portfolio ↗</a></kbd>
+<kbd><a href="mailto:7sadakonr@gmail.com">Email</a></kbd>
+<kbd><a href="mailto:7sadakonr@gmail.com">Open for Internships</a></kbd>
 
 <br />
 <br />
 
-[![About](https://img.shields.io/badge/About-24292F?style=flat&logo=aboutdotme&logoColor=FF7777)](#about-me)
-[![Projects](https://img.shields.io/badge/Projects-24292F?style=flat&logo=github&logoColor=FF7777)](#featured-projects)
-[![Technologies](https://img.shields.io/badge/Technologies-24292F?style=flat&logo=stackshare&logoColor=FF7777)](#technologies-ive-worked-with)
-[![Activity](https://img.shields.io/badge/GitHub_Activity-24292F?style=flat&logo=github&logoColor=FF7777)](#github-activity)
-[![Contact](https://img.shields.io/badge/Contact-24292F?style=flat&logo=gmail&logoColor=FF7777)](#contact)
+<kbd><a href="#about-me">About</a></kbd>
+<kbd><a href="#featured-projects">Projects</a></kbd>
+<kbd><a href="#technologies-ive-worked-with">Technologies</a></kbd>
+<kbd><a href="#github-activity">GitHub Activity</a></kbd>
+<kbd><a href="#contact">Contact</a></kbd>
 
 </div>
 
@@ -71,7 +71,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FEATURED-8B5CF6?style=flat" alt="Featured project" />
+<kbd>featured</kbd>
 
 ### [Zendix](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
 
@@ -83,13 +83,13 @@ A browser-based P2P application for transferring clipboard text, files, and fold
 
 `Zustand` `Tailwind CSS 3` `Framer Motion` `PWA`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat&logo=github&logoColor=FF7777)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+<kbd><a href="https://zendix-file.vercel.app/">Live Demo ↗</a></kbd>
+<kbd><a href="https://github.com/7sadakonr/Zendix-Filetransfer-Web-App">Source Code</a></kbd>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FEATURED-8B5CF6?style=flat" alt="Featured project" />
+<kbd>featured</kbd>
 
 ### [Nyeta](https://github.com/7sadakonr/Nyeta)
 
@@ -101,8 +101,8 @@ An accessible visual-assistance platform with native WebRTC calls, Gemini-powere
 
 `Native WebRTC` `Pusher` `TensorFlow.js` `COCO-SSD` `Scanic`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://nyeta.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat&logo=github&logoColor=FF7777)](https://github.com/7sadakonr/Nyeta)
+<kbd><a href="https://nyeta.vercel.app">Live Demo ↗</a></kbd>
+<kbd><a href="https://github.com/7sadakonr/Nyeta">Source Code</a></kbd>
 
 </td>
 </tr>
@@ -122,8 +122,8 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 
 `Lenis` `EmailJS` `React Rough Notation` `Custom CSS`
 
-[![Live Website](https://img.shields.io/badge/Live_Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat&logo=github&logoColor=FF7777)](https://github.com/7sadakonr/7sadakonr-portfolio)
+<kbd><a href="https://7sadakonr.xyz">Live Website ↗</a></kbd>
+<kbd><a href="https://github.com/7sadakonr/7sadakonr-portfolio">Source Code</a></kbd>
 
 </td>
 <td width="50%" valign="top">
@@ -136,8 +136,8 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 `Supabase Auth` `PostgreSQL` `RLS` `OGL`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=flat&logo=github&logoColor=FF7777)](https://github.com/7sadakonr/Todo-List)
+<kbd><a href="https://7sadakonr-todo-list.vercel.app/">Live Demo ↗</a></kbd>
+<kbd><a href="https://github.com/7sadakonr/Todo-List">Source Code</a></kbd>
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 ```
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/github-activity-terminal.svg" alt="GitHub activity shown inside a terminal-style frame" />
+  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/output/github-activity-terminal.svg" alt="GitHub activity shown inside a terminal-style frame" />
 </p>
 
 ---
@@ -236,10 +236,14 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 Open to **Frontend, Full-Stack, and Software Engineering internship opportunities**.
 
 <br />
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-8B5CF6?style=flat&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7sadakonr-24292F?style=flat&logo=github&logoColor=FF7777)](https://github.com/7sadakonr)
+<kbd><a href="https://7sadakonr.xyz">Portfolio ↗</a></kbd>
+<kbd><a href="mailto:7sadakonr@gmail.com">7sadakonr@gmail.com</a></kbd>
+<kbd><a href="https://github.com/7sadakonr">GitHub</a></kbd>
+
+<br />
+<br />
 
 Ayutthaya, Thailand
 
