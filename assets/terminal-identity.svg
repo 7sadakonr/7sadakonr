@@ -4,15 +4,15 @@
   </defs>
   <g clip-path="url(#outerClip)">
     <rect width="1200" height="520" fill="#0D1117"/>
-    <rect x="1" y="1" width="1198" height="518" rx="28" fill="none" stroke="#31233A" stroke-width="2"/>
+    <rect x="1" y="1" width="1198" height="518" rx="28" fill="none" stroke="#8B5CF6" stroke-width="2"/>
     <rect x="0" y="0" width="1200" height="55" fill="#171329"/>
-    <line x1="0" y1="55" x2="1200" y2="55" stroke="#2D2035"/>
+    <line x1="0" y1="55" x2="1200" y2="55" stroke="#FF7777" stroke-opacity="0.72"/>
     <circle cx="28" cy="27.5" r="7" fill="#FF5F57"/>
     <circle cx="51" cy="27.5" r="7" fill="#FEBC2E"/>
     <circle cx="74" cy="27.5" r="7" fill="#28C840"/>
-    <text x="112" y="33" fill="#B8B3C8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">Terminal Identity</text>
+    <text x="112" y="33" fill="#FF7777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">Terminal Identity</text>
 
-    <rect x="24" y="76" width="430" height="302" rx="18" fill="#0D131C" stroke="#111D25"/>
+    <rect x="24" y="76" width="430" height="302" rx="18" fill="#0D131C" stroke="#8B5CF6" stroke-opacity="0.38"/>
     <circle cx="46" cy="96" r="4.5" fill="#FF5F57"/>
     <circle cx="59" cy="96" r="4.5" fill="#FEBC2E"/>
     <circle cx="72" cy="96" r="4.5" fill="#28C840"/>
@@ -44,12 +44,12 @@
       <tspan x="48" y="343.6">               .:**###*.      .*::*#:           :****#            ::***.              </tspan>
     </text>
 
-    <rect x="474" y="76" width="702" height="302" rx="18" fill="#0D131C" stroke="#111D25"/>
+    <rect x="474" y="76" width="702" height="302" rx="18" fill="#0D131C" stroke="#FF7777" stroke-opacity="0.38"/>
     <circle cx="496" cy="96" r="4.5" fill="#FF5F57"/>
     <circle cx="509" cy="96" r="4.5" fill="#FEBC2E"/>
     <circle cx="522" cy="96" r="4.5" fill="#28C840"/>
     <text x="1148" y="100" text-anchor="end" fill="#7C708B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">~/identity/banner.sh</text>
-    <text xml:space="preserve" fill="#FF7777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.7">
+    <text xml:space="preserve" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.7">
       <tspan x="500" y="154"> ooooooooo .oooooo..o      .o.      oooooooooo.        .o.      oooo    oooo  .oooooo.  ooooo      oooooooooooo.</tspan>
       <tspan x="500" y="173">d&quot;&quot;&quot;&quot;&quot;&quot;&quot;8'd8P'    `Y8     .888.     `888'   `Y8b      .888.     `888   .8P'  d8P'  `Y8b `888b.     `8'`888   `Y88.</tspan>
       <tspan x="500" y="192">      .8' Y88bo.         .8&quot;888.     888      888    .8&quot;888.     888  d8'   888      888 8 `88b.    8  888   .d88'</tspan>
@@ -58,11 +58,11 @@
       <tspan x="500" y="249">   .8'    oo     .d8P .8'     `888.  888     d88' .8'     `888.  888  `88b. `88b    d88' 8       `888  888  `88b.</tspan>
       <tspan x="500" y="268">  .8'     8&quot;&quot;88888P' o88o     o8888oo888bood8P'  o88o     o8888oo888o  o888o `Y8bood8P' o8o        `8 o888o  o888o</tspan>
     </text>
-    <line x1="500" y1="305" x2="1144" y2="305" stroke="#31203A"/>
+    <line x1="500" y1="305" x2="1144" y2="305" stroke="#FF7777" stroke-opacity="0.42"/>
     <text x="500" y="334" fill="#C8C2D2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Frontend-Focused Full-Stack Developer</text>
     <text x="500" y="356" fill="#93899F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">accessibility · realtime web · product UI · AI vision</text>
 
-    <rect x="24" y="397" width="1152" height="97" rx="18" fill="#0D131C" stroke="#111D25"/>
+    <rect x="24" y="397" width="1152" height="97" rx="18" fill="#0D131C" stroke="#8B5CF6" stroke-opacity="0.42"/>
     <circle cx="46" cy="417" r="4.5" fill="#FF5F57"/>
     <circle cx="59" cy="417" r="4.5" fill="#FEBC2E"/>
     <circle cx="72" cy="417" r="4.5" fill="#28C840"/>
