@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/terminal-identity.svg?v=20260810-2000" alt="Terminal Identity — ASCII portrait and 7SADAKONR Roman wordmark" />
+  <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/terminal-identity-v2.svg" alt="Terminal Identity — ASCII portrait and 7SADAKONR Roman wordmark" />
 </p>
 
 <div align="center">
