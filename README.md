@@ -67,7 +67,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 <img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-[![Zendix](https://img.shields.io/badge/Zendix-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+<h3><a href="https://github.com/7sadakonr/Zendix-Filetransfer-Web-App"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-zendix.svg" alt="Zendix" /></a></h3>
 
 A browser-based P2P application for transferring clipboard text, files, and folders directly through WebRTC data channels, with QR pairing and PWA support.
 
@@ -85,7 +85,7 @@ A browser-based P2P application for transferring clipboard text, files, and fold
 
 <img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-[![Nyeta](https://img.shields.io/badge/Nyeta-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Nyeta)
+<h3><a href="https://github.com/7sadakonr/Nyeta"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-nyeta.svg" alt="Nyeta" /></a></h3>
 
 An accessible visual-assistance platform with native WebRTC calls, Gemini-powered scene, currency, and document vision, plus browser-side object guidance.
 
@@ -108,7 +108,7 @@ An accessible visual-assistance platform with native WebRTC calls, Gemini-powere
 <tr>
 <td width="50%" valign="top">
 
-[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
+<h3><a href="https://github.com/7sadakonr/7sadakonr-portfolio"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-personal-portfolio.svg" alt="Personal Portfolio" /></a></h3>
 
 An interactive universe-themed portfolio with custom CSS effects, command-menu navigation, Lenis smooth scrolling, and an EmailJS contact flow.
 
@@ -122,7 +122,7 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 </td>
 <td width="50%" valign="top">
 
-[![Integrated Task Management](https://img.shields.io/badge/Integrated_Task_Management-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+<h3><a href="https://github.com/7sadakonr/Todo-List"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-integrated-task-management.svg" alt="Integrated Task Management" /></a></h3>
 
 A task-management application with Supabase authentication, PostgreSQL Row-Level Security, CRUD and Kanban workflows, breached-password checking, and WebGL interface effects.
 
