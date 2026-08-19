@@ -151,40 +151,45 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ### Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, and Tailwind CSS" />
-
-<br />
-
-`React Router` · `Zustand` · `Framer Motion` · `OGL`
-
-<br />
-<br />
+![HTML5](https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=FF7777)
+![CSS3](https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=FF7777)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=FF7777)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=next.js&logoColor=8B5CF6)
+![Vite](https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=FF7777)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=8B5CF6)
+![React Router](https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=FF7777)
+![Zustand](https://img.shields.io/badge/Zustand-24292F?style=for-the-badge&logoColor=8B5CF6)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-24292F?style=for-the-badge&logo=framer&logoColor=FF7777)
+![OGL](https://img.shields.io/badge/OGL-24292F?style=for-the-badge&logoColor=8B5CF6)
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis" alt="Node.js, PostgreSQL, Supabase, and Redis" />
-
-<br />
-
-`Supabase Auth` · `PostgreSQL RLS` · `Upstash Redis`
-
-<br />
-<br />
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=8B5CF6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&logo=postgresql&logoColor=FF7777)
+![Supabase](https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
+![Redis](https://img.shields.io/badge/Redis-24292F?style=for-the-badge&logo=redis&logoColor=FF7777)
+![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-24292F?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
+![PostgreSQL RLS](https://img.shields.io/badge/PostgreSQL_RLS-24292F?style=for-the-badge&logo=postgresql&logoColor=FF7777)
+![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-24292F?style=for-the-badge&logo=redis&logoColor=8B5CF6)
 
 ### Real-Time & AI
 
-`WebRTC` · `PeerJS` · `Pusher Channels` · `Gemini API` · `TensorFlow.js`
-
-<br />
-<br />
+![WebRTC](https://img.shields.io/badge/WebRTC-24292F?style=for-the-badge&logoColor=FF7777)
+![PeerJS](https://img.shields.io/badge/PeerJS-24292F?style=for-the-badge&logoColor=8B5CF6)
+![Pusher Channels](https://img.shields.io/badge/Pusher_Channels-24292F?style=for-the-badge&logo=pusher&logoColor=FF7777)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-24292F?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-24292F?style=for-the-badge&logo=tensorflow&logoColor=FF7777)
 
 ### Testing & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, and Vercel" />
-
-<br />
-
-`Vitest` · `Playwright` · `ESLint`
+![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=FF7777)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=8B5CF6)
+![Vercel](https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=FF7777)
+![Vitest](https://img.shields.io/badge/Vitest-24292F?style=for-the-badge&logo=vitest&logoColor=8B5CF6)
+![Playwright](https://img.shields.io/badge/Playwright-24292F?style=for-the-badge&logo=playwright&logoColor=FF7777)
+![ESLint](https://img.shields.io/badge/ESLint-24292F?style=for-the-badge&logo=eslint&logoColor=8B5CF6)
 
 </div>
 
