@@ -151,45 +151,45 @@ A task-management application with Supabase authentication, PostgreSQL Row-Level
 
 ### Languages & Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=FF7777)
-![CSS3](https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=FF7777)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
-![React](https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=FF7777)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=next.js&logoColor=8B5CF6)
-![Vite](https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=FF7777)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=8B5CF6)
-![React Router](https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=FF7777)
-![Zustand](https://img.shields.io/badge/Zustand-24292F?style=for-the-badge&logoColor=8B5CF6)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-24292F?style=for-the-badge&logo=framer&logoColor=FF7777)
-![OGL](https://img.shields.io/badge/OGL-24292F?style=for-the-badge&logoColor=8B5CF6)
+![HTML5](https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![React Router](https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![Zustand](https://img.shields.io/badge/Zustand-24292F?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-24292F?style=for-the-badge&logo=framer&logoColor=0055FF)
+![OGL](https://img.shields.io/badge/OGL-24292F?style=for-the-badge)
 
 ### Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=8B5CF6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&logo=postgresql&logoColor=FF7777)
-![Supabase](https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
-![Redis](https://img.shields.io/badge/Redis-24292F?style=for-the-badge&logo=redis&logoColor=FF7777)
-![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-24292F?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
-![PostgreSQL RLS](https://img.shields.io/badge/PostgreSQL_RLS-24292F?style=for-the-badge&logo=postgresql&logoColor=FF7777)
-![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-24292F?style=for-the-badge&logo=redis&logoColor=8B5CF6)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Redis](https://img.shields.io/badge/Redis-24292F?style=for-the-badge&logo=redis&logoColor=FF4438)
+![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL RLS](https://img.shields.io/badge/PostgreSQL_RLS-24292F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-24292F?style=for-the-badge&logo=upstash&logoColor=00E9A3)
 
 ### Real-Time & AI
 
-![WebRTC](https://img.shields.io/badge/WebRTC-24292F?style=for-the-badge&logoColor=FF7777)
-![PeerJS](https://img.shields.io/badge/PeerJS-24292F?style=for-the-badge&logoColor=8B5CF6)
-![Pusher Channels](https://img.shields.io/badge/Pusher_Channels-24292F?style=for-the-badge&logo=pusher&logoColor=FF7777)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-24292F?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-24292F?style=for-the-badge&logo=tensorflow&logoColor=FF7777)
+![WebRTC](https://img.shields.io/badge/WebRTC-24292F?style=for-the-badge)
+![PeerJS](https://img.shields.io/badge/PeerJS-24292F?style=for-the-badge)
+![Pusher Channels](https://img.shields.io/badge/Pusher_Channels-24292F?style=for-the-badge&logo=pusher&logoColor=FFFFFF)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-24292F?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-24292F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 
 ### Testing & Workflow
 
-![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=FF7777)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=8B5CF6)
-![Vercel](https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=FF7777)
-![Vitest](https://img.shields.io/badge/Vitest-24292F?style=for-the-badge&logo=vitest&logoColor=8B5CF6)
-![Playwright](https://img.shields.io/badge/Playwright-24292F?style=for-the-badge&logo=playwright&logoColor=FF7777)
-![ESLint](https://img.shields.io/badge/ESLint-24292F?style=for-the-badge&logo=eslint&logoColor=8B5CF6)
+![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Vitest](https://img.shields.io/badge/Vitest-24292F?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![Playwright](https://img.shields.io/badge/Playwright-24292F?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![ESLint](https://img.shields.io/badge/ESLint-24292F?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 
 </div>
 
