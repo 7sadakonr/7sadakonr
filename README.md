@@ -229,7 +229,7 @@ Open to **Frontend, Full-Stack, and Software Engineering internship opportunitie
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jetsadakorn.contact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jetsadakorn.contact%40gmail.com-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jetsadakorn.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7sadakonr-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7sadakonr)
 
 <br />
