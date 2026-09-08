@@ -122,16 +122,15 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/7sadakonr/Todo-List"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-integrated-task-management.svg" alt="Integrated Task Management" /></a></h3>
+<h3><a href="https://github.com/7sadakonr/Slipzen"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-slipzen.svg" alt="Slipzen" /></a></h3>
 
-A task-management application with Supabase authentication, PostgreSQL Row-Level Security, CRUD and Kanban workflows, breached-password checking, and WebGL interface effects.
+A cross-platform personal finance and receipt management app that turns receipt photos into structured expenses with AI-powered extraction, budgeting, and spending analytics.
 
-`Next.js 16` `React 19` `TypeScript 5` `Tailwind CSS 4`
+`React Native 0.81` `Expo SDK 54` `TypeScript`
 
-`Supabase Auth` `PostgreSQL` `RLS` `OGL`
+`Supabase` `Gemini` `TanStack Query` `Zustand`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://7sadakonr-todo-list.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/Todo-List)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/Slipzen)
 
 </td>
 </tr>
