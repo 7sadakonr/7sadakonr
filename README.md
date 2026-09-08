@@ -12,8 +12,8 @@ Building accessible, high-performance, and practical web applications from Thail
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7sadakonr.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
-[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-8B5CF6?style=for-the-badge)](mailto:7sadakonr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jetsadakorn.contact@gmail.com)
+[![Internship](https://img.shields.io/badge/Status-Open_for_Internships-8B5CF6?style=for-the-badge)](mailto:jetsadakorn.contact@gmail.com)
 
 <br />
 <br />
@@ -229,7 +229,7 @@ Open to **Frontend, Full-Stack, and Software Engineering internship opportunitie
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
-[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7sadakonr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7sadakonr%40gmail.com-FF7777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jetsadakorn.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7sadakonr-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7sadakonr)
 
 <br />
