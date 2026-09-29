@@ -2,11 +2,14 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/build_activity_terminal.py"
 
 permissions:
   contents: write
