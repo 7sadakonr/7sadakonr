@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="100%" height="100%" rx="18" fill="#24292F"/>
+  <text x="42" y="58" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ visitors --history 30d</text>
+  <text x="42" y="148" fill="#C9D1D9" font-family="monospace" font-size="16">Collecting the first visitor snapshot...</text>
+</svg>
