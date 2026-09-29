@@ -246,6 +246,20 @@ Ayutthaya, Thailand
 
 <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7sadakonr&label=7sadakonr%40github%3A~%24%20visitors&color=8B5CF6&style=flat" alt="Profile visitors" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-visitors-24292F?style=flat&labelColor=24292F&color=8B5CF6&logo=gnubash&logoColor=white" alt="visitors command" />
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=7sadakonr&label=TOTAL%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Total profile views" />
+
+<br />
+<br />
+
+<img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/profile-views-history.svg" alt="30-day profile views history" />
+
+<sub>Daily snapshots are stored in <code>data/profile-views.json</code> and updated automatically.</sub>
+
+</div>
