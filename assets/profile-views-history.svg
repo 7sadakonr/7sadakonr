@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
 <rect width="100%" height="100%" rx="18" fill="#24292F"/>
 <text x="42" y="46" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ visitors --history 30d</text>
-<text x="42" y="76" fill="#C9D1D9" font-family="monospace" font-size="14">1 day collected · daily snapshots</text>
-<text x="858" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">1 total</text>
-<text x="858" y="76" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="13">+0 in displayed period</text>
+<text x="42" y="76" fill="#C9D1D9" font-family="monospace" font-size="14">2 days collected · daily snapshots</text>
+<text x="858" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">2 total</text>
+<text x="858" y="76" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="13">+1 in displayed period</text>
 <line x1="72" y1="102.0" x2="862" y2="102.0" stroke="#30363D" stroke-width="1"/><line x1="72" y1="148.7" x2="862" y2="148.7" stroke="#30363D" stroke-width="1"/><line x1="72" y1="195.3" x2="862" y2="195.3" stroke="#30363D" stroke-width="1"/><line x1="72" y1="242.0" x2="862" y2="242.0" stroke="#30363D" stroke-width="1"/>
-<text x="60" y="107.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">2</text><text x="60" y="153.7" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">1</text><text x="60" y="200.3" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">1</text><text x="60" y="247.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">0</text>
-<polyline points="467.0,172.0" fill="none" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="467.0" cy="172.0" r="4" fill="#FF7777"/>
+<text x="60" y="107.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">3</text><text x="60" y="153.7" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">2</text><text x="60" y="200.3" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">1</text><text x="60" y="247.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">0</text>
+<polyline points="72.0,195.3 862.0,148.7" fill="none" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="72.0" cy="195.3" r="4" fill="#FF7777"/><circle cx="862.0" cy="148.7" r="4" fill="#FF7777"/>
 <text x="72" y="275" fill="#8B949E" font-family="monospace" font-size="12">Sep 29</text>
-<text x="862" y="275" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">Sep 29</text>
+<text x="862" y="275" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">Sep 30</text>
 </svg>
