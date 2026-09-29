@@ -1,33 +1,9 @@
 from __future__ import annotations
 
 import re
-import urllib.request
+from datetime import datetime
 from pathlib import Path
-
-GRAPH_URL = (
-    "https://github-readme-activity-graph.vercel.app/graph"
-    "?username=7sadakonr"
-    "&bg_color=0D1117"
-    "&color=E6EDF3"
-    "&line=FF7777"
-    "&point=FF7777"
-    "&area=true"
-    "&area_color=8B5CF6"
-    "&hide_border=true"
-    "&radius=12"
-)
-
-
-def fetch_text(url: str) -> str:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "7sadakonr-profile-readme/1.0",
-            "Accept": "image/svg+xml,text/plain;q=0.9,*/*;q=0.8",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return response.read().decode("utf-8")
+from zoneinfo import ZoneInfo
 
 
 def nested_svg(svg_text: str, *, x: int, y: int, width: int, height: int) -> str:
@@ -59,43 +35,37 @@ def nested_svg(svg_text: str, *, x: int, y: int, width: int, height: int) -> str
     )
 
 
-def build_terminal(snake_svg: str, graph_svg: str) -> str:
-    # Slightly enlarge the contribution calendar while keeping the overall card compact.
-    snake = nested_svg(snake_svg, x=44, y=112, width=1112, height=154)
-    graph = nested_svg(graph_svg, x=46, y=350, width=1108, height=326)
+def build_terminal(snake_svg: str) -> str:
+    snake = nested_svg(snake_svg, x=44, y=102, width=1112, height=238)
+    refreshed = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%d %b %Y · %H:%M ICT")
 
-    return f'''<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg">
+    return f'''<svg width="1200" height="390" viewBox="0 0 1200 390" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="activityOuterClip"><rect x="1" y="1" width="1198" height="718" rx="28"/></clipPath>
+    <clipPath id="activityOuterClip"><rect x="1" y="1" width="1198" height="388" rx="28"/></clipPath>
   </defs>
 
   <g clip-path="url(#activityOuterClip)">
-    <rect width="1200" height="720" fill="#0D1117"/>
-    <rect x="1" y="1" width="1198" height="718" rx="28" fill="none" stroke="#30363D" stroke-width="2"/>
+    <rect width="1200" height="390" fill="#0D1117"/>
+    <rect x="1" y="1" width="1198" height="388" rx="28" fill="none" stroke="#30363D" stroke-width="2"/>
 
     <rect width="1200" height="56" fill="#111827"/>
     <line x1="0" y1="56" x2="1200" y2="56" stroke="#21262D"/>
     <circle cx="28" cy="28" r="7" fill="#FF5F57"/>
     <circle cx="51" cy="28" r="7" fill="#FEBC2E"/>
     <circle cx="74" cy="28" r="7" fill="#28C840"/>
-    <text x="112" y="34" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">GitHub Activity</text>
-    <text x="1150" y="34" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/activity/dashboard.sh</text>
+    <text x="112" y="34" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">GitHub Contribution Snake</text>
+    <text x="1150" y="34" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">~/activity/snake.sh</text>
 
-    <rect x="24" y="78" width="1152" height="216" rx="18" fill="#0B1220" stroke="#30363D"/>
+    <rect x="24" y="78" width="1152" height="276" rx="18" fill="#0B1220" stroke="#30363D"/>
     <circle cx="46" cy="99" r="4.5" fill="#FF5F57"/>
     <circle cx="59" cy="99" r="4.5" fill="#FEBC2E"/>
     <circle cx="72" cy="99" r="4.5" fill="#28C840"/>
-    <text x="92" y="103" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-snake.svg</text>
+    <text x="92" y="103" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">github-contribution-grid-snake-dark.svg</text>
+
     {snake}
 
-    <rect x="24" y="306" width="1152" height="390" rx="18" fill="#0B1220" stroke="#30363D"/>
-    <circle cx="46" cy="327" r="4.5" fill="#FF5F57"/>
-    <circle cx="59" cy="327" r="4.5" fill="#FEBC2E"/>
-    <circle cx="72" cy="327" r="4.5" fill="#28C840"/>
-    <text x="92" y="331" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">contribution-graph.svg</text>
-    {graph}
-
-    <rect x="1118" y="675" width="2" height="16" fill="#FF7777"/>
+    <text x="46" y="374" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">refreshed automatically from GitHub contributions</text>
+    <text x="1154" y="374" text-anchor="end" fill="#FF7777" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">{refreshed}</text>
   </g>
 </svg>'''
 
@@ -107,8 +77,7 @@ def main() -> None:
         raise SystemExit(f"Missing generated snake: {snake_path}")
 
     snake_svg = snake_path.read_text(encoding="utf-8")
-    graph_svg = fetch_text(GRAPH_URL)
-    output = build_terminal(snake_svg, graph_svg)
+    output = build_terminal(snake_svg)
     (dist / "github-activity-terminal.svg").write_text(output, encoding="utf-8")
 
 
