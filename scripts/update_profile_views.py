@@ -41,7 +41,7 @@ def fetch_view_count() -> int:
             pass
 
     if not values:
-        raise RuntimeError("Could not parse visitor count from counter SVG.")
+        raise RuntimeError("Could not parse profile page-hit count from counter SVG.")
     return max(values)
 
 
@@ -85,8 +85,8 @@ def make_svg(history: dict) -> str:
     if not entries:
         return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
 <rect width="100%" height="100%" rx="18" fill="#24292F"/>
-<text x="42" y="58" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ visitors --history 30d</text>
-<text x="42" y="148" fill="#C9D1D9" font-family="monospace" font-size="16">Collecting the first visitor snapshot...</text>
+<text x="42" y="58" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ profile-views --history 30d</text>
+<text x="42" y="148" fill="#C9D1D9" font-family="monospace" font-size="16">Collecting the first page-hit snapshot...</text>
 </svg>
 """
 
@@ -140,9 +140,9 @@ def make_svg(history: dict) -> str:
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
 <rect width="100%" height="100%" rx="18" fill="#24292F"/>
-<text x="42" y="46" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ visitors --history 30d</text>
+<text x="42" y="46" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ profile-views --history 30d</text>
 <text x="42" y="76" fill="#C9D1D9" font-family="monospace" font-size="14">{subtitle}</text>
-<text x="{width-42}" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">{total:,} total</text>
+<text x="{width-42}" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">{total:,} page hits</text>
 <text x="{width-42}" y="76" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="13">{delta_text} in displayed period</text>
 {"".join(grid)}
 {"".join(y_labels)}
@@ -161,7 +161,7 @@ def main() -> None:
     save_history(history)
     SVG_FILE.parent.mkdir(parents=True, exist_ok=True)
     SVG_FILE.write_text(make_svg(history), encoding="utf-8")
-    print(f"Recorded {views} profile views for {today}")
+    print(f"Recorded {views} profile page hits for {today}")
 
 
 if __name__ == "__main__":
