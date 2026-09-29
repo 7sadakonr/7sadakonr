@@ -237,10 +237,6 @@ Open to **Frontend, Full-Stack, and Software Engineering internship opportunitie
 
 Ayutthaya, Thailand
 
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-exit%200-FF7777?style=flat&labelColor=24292F&logo=gnubash&logoColor=white" alt="exit 0" />
 
 </div>
 
@@ -248,18 +244,18 @@ Ayutthaya, Thailand
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-visitors-24292F?style=flat&labelColor=24292F&color=8B5CF6&logo=gnubash&logoColor=white" alt="visitors command" />
+<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-profile--views-24292F?style=flat&labelColor=24292F&color=8B5CF6&logo=gnubash&logoColor=white" alt="profile views" />
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=7sadakonr&label=TOTAL%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Total profile views" />
+<img src="https://komarev.com/ghpvc/?username=7sadakonr&label=PROFILE%20PAGE%20HITS&color=8B5CF6&style=for-the-badge" alt="Profile page hits" />
 
 <br />
 <br />
 
 <img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/profile-views-history.svg" alt="30-day profile views history" />
 
-<sub>Daily snapshots are stored in <code>data/profile-views.json</code> and updated automatically.</sub>
+<sub>Page hits are not unique visitors. Daily snapshots are stored in <code>data/profile-views.json</code> and updated automatically.</sub>
 
 </div>
