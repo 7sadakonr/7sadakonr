@@ -243,3 +243,9 @@ Ayutthaya, Thailand
 <img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-exit%200-FF7777?style=flat&labelColor=24292F&logo=gnubash&logoColor=white" alt="exit 0" />
 
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7sadakonr&label=7sadakonr%40github%3A~%24%20visitors&color=8B5CF6&style=flat" alt="Profile visitors" />
+</p>
