@@ -4,7 +4,8 @@ import json
 import math
 import re
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -154,7 +155,7 @@ def make_svg(history: dict) -> str:
 
 
 def main() -> None:
-    today = datetime.now(timezone.utc).date().isoformat()
+    today = datetime.now(ZoneInfo("Asia/Bangkok")).date().isoformat()
     views = fetch_view_count()
     history = update_history(load_history(), today, views)
     save_history(history)
