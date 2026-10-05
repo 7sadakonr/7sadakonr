@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
 <rect width="100%" height="100%" rx="18" fill="#24292F"/>
 <text x="42" y="46" fill="#FF7777" font-family="monospace" font-size="18">7sadakonr@github:~$ profile-views --history 30d</text>
-<text x="42" y="76" fill="#C9D1D9" font-family="monospace" font-size="14">6 days collected · daily snapshots</text>
-<text x="858" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">9 page hits</text>
-<text x="858" y="76" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="13">+7 in displayed period</text>
+<text x="42" y="76" fill="#C9D1D9" font-family="monospace" font-size="14">7 days collected · daily snapshots</text>
+<text x="858" y="46" text-anchor="end" fill="#8B5CF6" font-family="monospace" font-weight="700" font-size="22">14 page hits</text>
+<text x="858" y="76" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="13">+12 in displayed period</text>
 <line x1="72" y1="102.0" x2="862" y2="102.0" stroke="#30363D" stroke-width="1"/><line x1="72" y1="148.7" x2="862" y2="148.7" stroke="#30363D" stroke-width="1"/><line x1="72" y1="195.3" x2="862" y2="195.3" stroke="#30363D" stroke-width="1"/><line x1="72" y1="242.0" x2="862" y2="242.0" stroke="#30363D" stroke-width="1"/>
-<text x="60" y="107.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">11</text><text x="60" y="153.7" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">7</text><text x="60" y="200.3" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">4</text><text x="60" y="247.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">0</text>
-<polyline points="72.0,216.5 230.0,191.1 388.0,165.6 546.0,165.6 704.0,165.6 862.0,127.5" fill="none" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="72.0" cy="216.5" r="4" fill="#FF7777"/><circle cx="230.0" cy="191.1" r="4" fill="#FF7777"/><circle cx="388.0" cy="165.6" r="4" fill="#FF7777"/><circle cx="546.0" cy="165.6" r="4" fill="#FF7777"/><circle cx="704.0" cy="165.6" r="4" fill="#FF7777"/><circle cx="862.0" cy="127.5" r="4" fill="#FF7777"/>
+<text x="60" y="107.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">17</text><text x="60" y="153.7" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">11</text><text x="60" y="200.3" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">6</text><text x="60" y="247.0" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">0</text>
+<polyline points="72.0,225.5 203.7,209.1 335.3,192.6 467.0,192.6 598.7,192.6 730.3,167.9 862.0,126.7" fill="none" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="72.0" cy="225.5" r="4" fill="#FF7777"/><circle cx="203.7" cy="209.1" r="4" fill="#FF7777"/><circle cx="335.3" cy="192.6" r="4" fill="#FF7777"/><circle cx="467.0" cy="192.6" r="4" fill="#FF7777"/><circle cx="598.7" cy="192.6" r="4" fill="#FF7777"/><circle cx="730.3" cy="167.9" r="4" fill="#FF7777"/><circle cx="862.0" cy="126.7" r="4" fill="#FF7777"/>
 <text x="72" y="275" fill="#8B949E" font-family="monospace" font-size="12">Sep 30</text>
-<text x="862" y="275" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">Oct 05</text>
+<text x="862" y="275" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">Oct 06</text>
 </svg>
