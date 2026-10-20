@@ -68,7 +68,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 <img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-<h3><a href="https://github.com/7sadakonr/Arctri"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/Arctri/main/build/icon.png" alt="Arctri icon" /> Arctri</a></h3>
+<h3><a href="https://github.com/7sadakonr/Arctri"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-arctri.svg" alt="Arctri" /></a></h3>
 
 An agent-first desktop terminal for Windows and macOS that runs real shells and external AI coding CLIs, without becoming another IDE.
 
