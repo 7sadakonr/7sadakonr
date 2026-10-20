@@ -4,9 +4,9 @@
 
 <div align="center">
 
-Building accessible, high-performance, and practical web applications from Thailand.
+Building accessible, high-performance, and practical web, desktop, and mobile applications from Thailand.
 
-<sub>Frontend Engineering · Accessibility · Real-Time Web · Product UI</sub>
+<sub>Frontend Engineering · Developer Tools · Accessibility · Real-Time Systems</sub>
 
 <br />
 <br />
@@ -34,7 +34,8 @@ Building accessible, high-performance, and practical web applications from Thail
 
 I am a final-year Computer Science student at Rajamangala University of Technology Suvarnabhumi, Ayutthaya. I enjoy turning product ideas into polished web experiences, with a strong focus on frontend engineering, accessibility, performance, real-time communication, AI-assisted products, and secure application development.
 
-- Building current projects with **React, Next.js, TypeScript, Vite, Supabase, WebRTC, Pusher, TensorFlow.js, and Google Gemini**
+- Building web, desktop, and mobile products with **React, Next.js, Electron, Vue, React Native, TypeScript, and Node.js**
+- Working with **Supabase, WebRTC, xterm.js, Pusher, TensorFlow.js, and Google Gemini** across developer tooling, accessibility, and real-time applications
 - Comfortable with **Git branches, pull requests, code reviews, testing, and deployment workflows**
 - Interested in products that solve real problems through thoughtful design and reliable engineering
 - Currently looking for a **Frontend, Full-Stack, or Software Engineering internship**
@@ -47,7 +48,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 <div align="center">
 
-`Accessible product interfaces` · `Real-time web applications` · `Frontend performance` · `Secure full-stack systems`
+`Agent-first developer tools` · `Accessible product interfaces` · `Real-time systems` · `Full-stack engineering`
 
 </div>
 
@@ -58,7 +59,7 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 <img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-ls%20.%2Fprojects%2Ffeatured-8B5CF6?style=flat&labelColor=24292F&logo=gnubash&logoColor=white" alt="ls projects featured" />
 
 <p align="center">
-  <sub>Selected work that best represents my frontend, accessibility, and real-time development experience.</sub>
+  <sub>Selected work across desktop developer tools, accessibility, and real-time development.</sub>
 </p>
 
 <table>
@@ -67,18 +68,18 @@ I am a final-year Computer Science student at Rajamangala University of Technolo
 
 <img src="https://img.shields.io/badge/FEATURED-FF7777?style=flat" alt="Featured project" />
 
-<h3><a href="https://github.com/7sadakonr/Zendix-Filetransfer-Web-App"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/project-title-zendix.svg" alt="Zendix" /></a></h3>
+<h3><a href="https://github.com/7sadakonr/Arctri"><img height="30" src="https://raw.githubusercontent.com/7sadakonr/Arctri/main/build/icon.png" alt="Arctri icon" /> Arctri</a></h3>
 
-A browser-based P2P application for transferring clipboard text, files, and folders directly through WebRTC data channels, with QR pairing and PWA support.
+An agent-first desktop terminal for Windows and macOS that runs real shells and external AI coding CLIs, without becoming another IDE.
 
-**Highlights:** Direct browser-to-browser transfer, QR pairing, clipboard sharing, and installable PWA experience.
+**Highlights:** PTY-backed terminals, Claude Code and Codex CLI integration, command blocks, smart autocomplete, project files, and Git diffs.
 
-`React 18` `Vite 5` `PeerJS` `WebRTC`
+`Electron 44` `React 19` `TypeScript 6` `xterm.js 6`
 
-`Zustand` `Tailwind CSS 3` `Framer Motion` `PWA`
+`node-pty` `CodeMirror 6` `Tailwind CSS 4` `SQLite`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://zendix-file.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/Zendix-Filetransfer-Web-App)
+[![Releases](https://img.shields.io/badge/Releases-8B5CF6?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/Arctri/releases)
+[![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/Arctri)
 
 </td>
 <td width="50%" valign="top">
@@ -112,9 +113,9 @@ An accessible visual-assistance platform with native WebRTC calls, Gemini-powere
 
 An interactive universe-themed portfolio with custom CSS effects, command-menu navigation, Lenis smooth scrolling, and an EmailJS contact flow.
 
-`React 19` `TypeScript` `Vite 7` `React Router 7`
+`React 19` `TypeScript 6` `Vite 7` `React Router 7`
 
-`Lenis` `EmailJS` `React Rough Notation` `Custom CSS`
+`Supabase` `Lenis` `Vercel Analytics` `Vitest`
 
 [![Live Website](https://img.shields.io/badge/Live_Website-8B5CF6?style=flat&logo=vercel&logoColor=white)](https://7sadakonr.xyz)
 [![Source Code](https://img.shields.io/badge/Source_Code-FF7777?style=flat&logo=github&logoColor=white)](https://github.com/7sadakonr/7sadakonr-portfolio)
@@ -126,7 +127,7 @@ An interactive universe-themed portfolio with custom CSS effects, command-menu n
 
 A cross-platform personal finance and receipt management app that turns receipt photos into structured expenses with AI-powered extraction, budgeting, and spending analytics.
 
-`React Native 0.81` `Expo SDK 54` `TypeScript`
+`React Native 0.86` `Expo SDK 57` `TypeScript 6`
 
 `Supabase` `Gemini` `TanStack Query` `Zustand`
 
@@ -148,7 +149,7 @@ A cross-platform personal finance and receipt management app that turns receipt 
 
 <div align="center">
 
-### Languages & Frontend
+### Languages & Web UI
 
 ![HTML5](https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -156,6 +157,7 @@ A cross-platform personal finance and receipt management app that turns receipt 
 ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-24292F?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 ![React Router](https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
@@ -163,10 +165,20 @@ A cross-platform personal finance and receipt management app that turns receipt 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-24292F?style=for-the-badge&logo=framer&logoColor=0055FF)
 ![OGL](https://img.shields.io/badge/OGL-24292F?style=for-the-badge)
 
+### Desktop & Mobile
+
+![Electron](https://img.shields.io/badge/Electron-24292F?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![React Native](https://img.shields.io/badge/React_Native-24292F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-24292F?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![xterm.js](https://img.shields.io/badge/xterm.js-24292F?style=for-the-badge)
+![node-pty](https://img.shields.io/badge/node--pty-24292F?style=for-the-badge)
+![CodeMirror](https://img.shields.io/badge/CodeMirror-24292F?style=for-the-badge&logo=codemirror&logoColor=D30707)
+
 ### Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-24292F?style=for-the-badge&logo=sqlite&logoColor=3F92D2)
 ![Supabase](https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![Redis](https://img.shields.io/badge/Redis-24292F?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
@@ -185,6 +197,7 @@ A cross-platform personal finance and receipt management app that turns receipt 
 
 ![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Vitest](https://img.shields.io/badge/Vitest-24292F?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 ![Playwright](https://img.shields.io/badge/Playwright-24292F?style=for-the-badge&logo=playwright&logoColor=2EAD33)
@@ -240,22 +253,3 @@ Ayutthaya, Thailand
 
 </div>
 
-<br />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/7sadakonr%40github%3A~%24-profile--views-24292F?style=flat&labelColor=24292F&color=8B5CF6&logo=gnubash&logoColor=white" alt="profile views" />
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=7sadakonr&label=PROFILE%20PAGE%20HITS&color=8B5CF6&style=for-the-badge" alt="Profile page hits" />
-
-<br />
-<br />
-
-<img width="100%" src="https://raw.githubusercontent.com/7sadakonr/7sadakonr/main/assets/profile-views-history.svg" alt="30-day profile views history" />
-
-<sub>Page hits are not unique visitors. Daily snapshots are stored in <code>data/profile-views.json</code> and updated automatically.</sub>
-
-</div>
